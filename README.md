@@ -1,0 +1,2 @@
+# -Leveraging-NLP-and-Machine-Learning-for-Stress-Identification-in-Social-Interactions
+IEEE Published – Stress Detection using NLP &amp; ML. Identifies stress in social text interactions using NLP preprocessing (tokenization, lemmatization, sentiment analysis) and ML models (Logistic Regression &amp; SVM). Data stored in Firestore. Evaluated using accuracy, precision, recall &amp; F1-score. Tech: Python, NLTK, Sklearn.
